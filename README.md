@@ -1,1 +1,1 @@
-# Face Land Mark Detection
+# Face Landmark Detection
